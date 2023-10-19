@@ -1,44 +1,15 @@
+🌟 CalendarBD by Abdur Rakib
 
-FREE APP
+Elevate your scheduling with CalendarPlus, an intuitive and sleek calendar application designed for the modern user. Key features include:
 
-Created by WebIntoApp.com on Thursday 19th of October 2023 05:22:16 AM.
+    🕰 Real-time Digital Clock: Always know the current time, adjusted automatically based on your location.
 
-Release APK & App Bundle (AAB) ready to be submitted to Google Play Store 
-and to any other APK / AAB store over the internet.
+    🗓 Intuitive Calendar View: Navigate through months effortlessly, with Fridays highlighted for a clear view of your weekends.
 
--------------------------------------
-App ID:			165309
-App Key:		APovHYgAHpvVhdjYnLEnpWzgsWfwUfqC
-App Name:		Calender Bd
-App Version:	1.0
-Package:		com.abdurrakib.calenderbd
-Mode:			Free App
--------------------------------------
+    🔔 Event Notifications: Seamlessly add events and receive alerts 30 minutes prior, ensuring you never miss a commitment.
 
-Your free app is ready, you can now publish it to the 
-google play store and to any apk app store on the internet.
+    📱 Responsive Design: A smooth, mobile-responsive experience that looks great on any device.
 
--------------------------------------
-Please note, your app is under a FREE mode, you can always 
-convert it to your own dedicated and branded mobile app for 
-Android and iOS with all the premium features at:
+    🖼 Personal Touch: Developed by Abdur Rakib, the app includes a dedicated footer with the developer's image and quick links to my  Facebook and Telegram for easy connectivity.
 
-https://www.webintoapp.com/author/apps/165309/edit?cmd=app-switcher
-
--------------------------------------
-Here are some useful links:
--------------------------------------
-
-You can edit your app at:
-https://www.webintoapp.com/author/apps
-
-Get installs statistics at:
-https://www.webintoapp.com/author/stats?appid=165309
-
-The Author Area:
-https://www.webintoapp.com/author/dashboard
-
--------------------------------------
-WebIntoApp.com Team.
-https://www.webintoapp.com
--------------------------------------
+Organize your time better with CalendarPlus – your ultimate scheduling companion.
